@@ -1,0 +1,50 @@
+
+
+
+
+
+section {
+    border: 1px solid black;
+    border-radius: 0.1cm;
+    color: white;
+}
+
+section h2 {
+    font-size: 15mm;
+    text-shadow: 1.5 mm 1.5mm;
+    font-family: helvetica, arial, sans-serif;
+    background-color: rgb(82, 71, 71);
+    text-align: center;
+    text-shadow: 0.1cm 0.1cm black;
+}
+
+section article {
+    border: 0.4cm solid black; 
+    padding: 1cm;
+    margin: 1cm;
+    background-color: rgb(153, 143, 143);
+}
+
+section article p {
+    font-size: 7mm;
+}
+
+section article ul li:nth-of-type(1) {
+    font-size: 0.7cm;
+    color: black;
+    background-color: white;
+}
+
+section article ul li:nth-of-type(2) {
+    font-size: 1cm;
+}
+
+section article ul li:nth-of-type(3) {
+    font-size: 1.2cm;
+    color: black;
+    background-color: white;
+}
+
+section article h3 {
+    font-size: 1.5cm; 
+}
